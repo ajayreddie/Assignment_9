@@ -1,0 +1,22 @@
+.card {
+    width: 250px;
+    margin-left: 5%;
+    margin-top: 3%;
+    box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.1);
+}
+
+.card_image {
+    width: 400px;
+    border-radius: 5px;
+}
+
+.card_title {
+    text-align: left;
+    color: white;
+}
+
+.card_description {
+    text-align: left;
+    color: white;
+    text-decoration-line: underline;
+}
